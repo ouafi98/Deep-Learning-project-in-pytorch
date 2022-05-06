@@ -1,1 +1,1 @@
-# Deep-Learning-with-Python-2nd-edition-Francois-chollet-in-Pytorch
+# Deep-Learning-project-in-pytorch
